@@ -1,2 +1,2 @@
 # soarin
-Mini Projects to begin my coding journey 
+These projects are all beginner level for me to start my coding journey. 
